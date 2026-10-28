@@ -13,6 +13,21 @@
 </tr>
 </table>
 
+### ЛР
+
+| № | Ссылка |
+|---|--------|
+| 1 | [Открыть](https://github.com/gregkorneev-BMSTU/lab1_PCPL.git) |
+| 2 | [Открыть](https://github.com/gregkorneev-BMSTU/lab2_PCPL.git) |
+| 3 | [Открыть](https://github.com/gregkorneev-BMSTU/lab3-4-PCPL.git) |
+
+
+</table>
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 👨‍💻 Автор
